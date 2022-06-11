@@ -11,6 +11,7 @@ Skills:  JS / HTML / CSS / PHP / Python
 - 👯 I’m looking to collaborate on everybody 
 - 📫 How to reach me: wolfyzpro@gmail.com | Discord : WolfyzDev#4123 
 - 😄 Pronouns: he/him/il 
+- Languages : French (Français) & English (Anglais)
 
 ![GitHub metrics](https://metrics.lecoq.io/WolfyzDev) 
 
