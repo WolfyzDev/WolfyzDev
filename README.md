@@ -2,8 +2,8 @@
 <h3 align="center">A French student passionate about IT </h3>
 
 ## 👀  About Me
-        ↪ French Student<br>
-        ↪ 16 years old <br>
+        ↪ French Student
+        ↪ 16 years old
         ↪ Terminale (last year of high school in France)
         ↪ I want to study computer engineering
         ↪ Passionate about computers, science, nature, music, reading, and other passions...
