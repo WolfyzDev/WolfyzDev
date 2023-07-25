@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wolfyz</h1>
-<h3 align="center">a student passionate about IT </h3>
+<h3 align="center">A student passionate about IT </h3>
 
 ## 👀  About Me
         ↪ French Student<br>
@@ -29,8 +29,8 @@
         ↪ Codeur Pro : French computer server, Moderator, 400 members >> https://discord.gg/codeur-pro
 
 ## 📫 How to contact me?
-        ↪ By e-mail: wolfyzpro@gmail.com and soon wolfyz@creaweb.tech
-        ↪ By Discord: via my business account `wolfyzdpro` or my main account `wolfyzdbois`
+        ↪ By e-mail: wolfyz@creaweb.tech
+        ↪ By Discord: Via my business account `wolfyzdpro` or my main account `wolfyzdbois`
 
 ## Connect with me  
 <div align="center">
