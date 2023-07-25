@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wolfyz</h1>
-<h3 align="center">A student passionate about IT </h3>
+<h3 align="center">A French student passionate about IT </h3>
 
 ## 👀  About Me
         ↪ French Student<br>
@@ -12,7 +12,7 @@
 ## 🔧 Dev project I'm currently working on
         ↪  CreaWeb Tech ➔ Creation of websites (back-end and front-end), free and paid;
         ↪  Creation of a complete utility Discord bot (in progress);
-        ↪  Creation of guides (LaTex, use of Discord, tool presentation, templates and snippets, ...).
+        ↪  Creation of guides (ressources, LaTex, use of Discord, tool presentation, templates and snippets, ...).
 
 ## 🧭 The skills I currently have
         ↪ Creation of website, front-end side. Create clean and functional website pages;
@@ -27,6 +27,7 @@
 ## 🛡️ I moderate and build Discord servers. Currently, I work for:
         ↪ Kobayashi : French community server, Moderation Manager & Architect, 3 300 members >> https://discord.gg/kobayashi
         ↪ Codeur Pro : French computer server, Moderator, 400 members >> https://discord.gg/codeur-pro
+        ↪ Sciences Infuses & Luna Univers : French community servers, under construction
 
 ## 📫 How to contact me?
         ↪ By e-mail: wolfyz@creaweb.tech
