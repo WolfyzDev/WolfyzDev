@@ -12,7 +12,8 @@
 ## 🔧 Dev project I'm currently working on
         ↪  CreaWeb Tech ➔ Creation of websites (back-end and front-end), free and paid;
         ↪  Creation of a complete utility Discord bot (in progress);
-        ↪  Creation of guides (ressources, LaTex, use of Discord, tool presentation, templates and snippets, ...).
+        ↪  Creation of guides (ressources, LaTex, use of Discord, tool presentation, templates and snippets, ...);
+        ↪ Translation from English to French (bot Discortics, bot Would You).
 
 ## 🧭 The skills I currently have
         ↪ Creation of website, front-end side. Create clean and functional website pages;
