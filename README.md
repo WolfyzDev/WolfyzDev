@@ -26,10 +26,50 @@
         ↪ Make improved Discord bots, and especially with the new library (Discord.js version 14);
 
 ## 🛡️ I moderate and build Discord servers. Currently, I work for:
-        ↪ Kobayashi : French community server, Moderation Manager & Architect, 3 300 members >> https://discord.gg/kobayashi
-        ↪ Codeur Pro : French computer server, Moderator, 400 members >> https://discord.gg/codeur-pro
-        ↪ Sciences Infuses & Luna Univers : French community servers, under construction
+        👑 Sciences Infuses
+          ↪ French server , science-themed, Under construction
+          
+        👑 World Square
+          ↪ English (and international) cultural exchange server, under construction (not yet open to the public)
+          
+        ⚔️ Kobayashi
+          ↪ French community server for mutual aid. You can discuss anime, video games, creations and music. Join us !
+          ↪ Moderation Manager & Architect
+          ↪ 3 300 members , https://discord.gg/kobayashi
+          
+        🛠️ Alpha Projects
+          ↪ English server corporation (under construction)
+          
+        🛠️ Pro's & Co 
+          ↪ Chat server with French and English speaking people
+          ↪ Moderator & Manager
+          ↪ 300 members, https://discord.gg/NEPAxru6cU
+          
+        🛠️ Discord Preview France 
+          ↪ French-speaking server on Discord news
+          ↪ Moderator & Manager 
 
+        🛡️ Hitomori 
+         ↪ French community with friends
+         ↪ Moderator
+         ↪ 450 members, https://discord.gg/52hYQFYca3
+        
+        🛡️Codeur Pro
+          ↪ French server, computer sharing and mutual aid community
+          ↪ Moderator 
+          ↪ 600 members, https://discord.gg/codeur-pro
+
+        🔧Discotips
+          ↪ Full Discord Bot (English) 
+          ↪ ranslator (🇺🇸  to 🇫🇷 )  & Bug Hunter
+          ↪ 82 000 servers 
+        🔧Would You
+        
+          ↪ Discord bot to relaunch conversations
+          ↪ Translator (🇺🇸  to 🇫🇷 ) 
+          ↪ 5 200 servers
+
+        
 ## 📫 How to contact me?
         ↪ By e-mail: wolfyz@creaweb.tech
         ↪ By Discord: Via my business account `wolfyzdpro` or my main account `wolfyzdbois`
