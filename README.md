@@ -54,17 +54,17 @@
          ↪ Moderator
          ↪ 450 members, https://discord.gg/52hYQFYca3
         
-        🛡️Codeur Pro
+        🛡️ Codeur Pro
           ↪ French server, computer sharing and mutual aid community
           ↪ Moderator 
           ↪ 600 members, https://discord.gg/codeur-pro
 
-        🔧Discotips
+        🔧 Discotips
           ↪ Full Discord Bot (English) 
           ↪ ranslator (🇺🇸  to 🇫🇷 )  & Bug Hunter
           ↪ 82 000 servers 
-        🔧Would You
-        
+          
+        🔧 Would You
           ↪ Discord bot to relaunch conversations
           ↪ Translator (🇺🇸  to 🇫🇷 ) 
           ↪ 5 200 servers
@@ -105,9 +105,11 @@
 
 <br/>  
 
+````
 ## 📈 Github Stats
 
 <div align="center">
   
 [![Wolfyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfyzDev&show_icons=true&show=reviews,discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+```
