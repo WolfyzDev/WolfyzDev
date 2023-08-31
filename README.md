@@ -101,15 +101,3 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-````
-## 📈 Github Stats
-
-<div align="center">
-  
-[![Wolfyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfyzDev&show_icons=true&show=reviews,discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-```
