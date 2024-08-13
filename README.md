@@ -3,75 +3,12 @@
 
 ## 👀  About Me
         ↪ French Student
-        ↪ 16 years old
-        ↪ Terminale (last year of high school in France)
-        ↪ I want to study computer engineering
+        ↪ Student at EPITA (Computer Engineering School in Strasbourg, France)
         ↪ Passionate about computers, science, nature, music, reading, and other passions...
         ↪ I speak french and english
 
-## 🔧 Dev project I'm currently working on
-        ↪  CreaWeb Tech ➔ Creation of websites (back-end and front-end), free and paid;
-        ↪  Creation of a complete utility Discord bot (in progress);
-        ↪  Creation of guides (ressources, LaTex, use of Discord, tool presentation, templates and snippets, ...);
-        ↪ Translation from English to French (bot Discortics, bot Would You).
-
-## 🧭 The skills I currently have
-        ↪ Creation of website, front-end side. Create clean and functional website pages;
-        ↪ Create a website, back-end part. Creation of a membership system, using PHP and database with MySql. Database management with PHPMyAmin, and hosting of a website;
-        ↪ Create programs in Python (2D video game projects, small applications, ...);
-        ↪ And many other cool skills.
-
-##  🔭 What I'm currently learning :
-        ↪ Make sites more beautiful and clean, responsive. Create more developed systems on the backend side;
-        ↪ Make improved Discord bots, and especially with the new library (Discord.js version 14);
-
-## 🛡️ I moderate and build Discord servers. Currently, I work for:
-        👑 Sciences Infuses
-          ↪ French server , science-themed, Under construction
-          
-        👑 World Square
-          ↪ English (and international) cultural exchange server, under construction (not yet open to the public)
-          
-        ⚔️ Kobayashi
-          ↪ French community server for mutual aid. You can discuss anime, video games, creations and music. Join us !
-          ↪ Moderation Manager & Architect
-          ↪ 3 300 members , https://discord.gg/kobayashi
-          
-        🛠️ Alpha Projects
-          ↪ English server corporation (under construction)
-          
-        🛠️ Pro's & Co 
-          ↪ Chat server with French and English speaking people
-          ↪ Moderator & Manager
-          ↪ 300 members, https://discord.gg/NEPAxru6cU
-          
-        🛠️ Discord Preview France 
-          ↪ French-speaking server on Discord news
-          ↪ Moderator & Manager 
-
-        🛡️ Hitomori 
-         ↪ French community with friends
-         ↪ Moderator
-         ↪ 450 members, https://discord.gg/52hYQFYca3
-        
-        🛡️ Codeur Pro
-          ↪ French server, computer sharing and mutual aid community
-          ↪ Moderator 
-          ↪ 600 members, https://discord.gg/codeur-pro
-
-        🔧 Discotips
-          ↪ Full Discord Bot (English) 
-          ↪ ranslator (🇺🇸  to 🇫🇷 )  & Bug Hunter
-          ↪ 82 000 servers 
-          
-        🔧 Would You
-          ↪ Discord bot to relaunch conversations
-          ↪ Translator (🇺🇸  to 🇫🇷 ) 
-          ↪ 5 200 servers
-
-        
 ## 📫 How to contact me?
-        ↪ By e-mail: wolfyz@creaweb.tech
+        ↪ By e-mail: contact@wolfyzdbois.com
         ↪ By Discord: Via my business account `wolfyzdpro` or my main account `wolfyzdbois`
 
 ## Connect with me  
