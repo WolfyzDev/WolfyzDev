@@ -7,10 +7,10 @@ wolfyzdbois:~$ ls
 > Passionate about computers, science, nature, music, reading, and other passions...
 > Speak French & English
 
-wolfyzdbois:~$ cd projects
-> SOON ! 
+wolfyzdbois:~$ cd projects && ls
+ls: cannot open directory 'projects': SOON ! 
 
-wolfyzdbois:~$ cd associations
+wolfyzdbois:~$ cd associations && ls
 > Secretary @Aide Réseaux
 > Secretary @Codeur Pro
 > Member @Aide Jeune
