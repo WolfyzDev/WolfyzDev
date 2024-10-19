@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thibault Aka WolfyzDBois  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
-<h3 align="center">A French student passionate about IT </h3>
-
 
 ```bash
 wolfyzdbois:~$ ls
@@ -11,6 +9,11 @@ wolfyzdbois:~$ ls
 
 wolfyzdbois:~$ cd projects
 > SOON ! 
+
+wolfyzdbois:~$ cd associations
+> Secretary @Aide Réseaux
+> Secretary @Codeur Pro
+> Member @Aide Jeune
 
 wolfyzdbois:~$ cd work/discord && ls
 > @Slash Fr ~ Guide
