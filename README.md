@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Wolfyz</h1>
+<h1 align="center">Hi 👋, I'm Wolfyz  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center">A French student passionate about IT </h3>
+
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 👀  About Me
         ↪ French Student
         ↪ Student at EPITA (Computer Engineering School in Strasbourg, France)
         ↪ Passionate about computers, science, nature, music, reading, and other passions...
         ↪ I speak french and english
+
+
 
 ## 📫 How to contact me?
         ↪ By e-mail: contact@wolfyzdbois.com
@@ -40,6 +44,3 @@
 </div>  
 
 
-
-
-![Metrics](https://metrics.lecoq.io/WolfyzDev?template=classic&leetcode=1&people=1&notable=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&leetcode=false&leetcode.user=WolfyzDev&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Europe%2FBerlin)
